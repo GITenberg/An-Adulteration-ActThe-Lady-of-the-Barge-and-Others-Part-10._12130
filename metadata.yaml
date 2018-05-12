@@ -1,5 +1,8 @@
 _repo: An-Adulteration-ActThe-Lady-of-the-Barge-and-Others-Part-10._12130
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 12130-h/cover.jpg
 creator:
   author:
     agent_name: Jacobs, W. W. (William Wymark)
@@ -13,6 +16,8 @@ description: A well-to-do doctor wakes up to find himself on a ship at sea. How 
   he get there, and how will he get home? But before those questions can be answered,
   the crew begins to succumb to a mysterious illness, one by one -- and questions
   about the doctor's true identity are never settled.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12130#An-Adulteration-ActThe-Lady-of-the-Barge-and-Others-Part-10.
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
